@@ -1,0 +1,9 @@
+Graph Nodes:
+Sex;ActualStroke;PredictedStroke;Measure
+
+Graph Edges:
+1. ActualStroke --> PredictedStroke
+2. Measure --> PredictedStroke
+3. Sex --> ActualStroke
+4. Sex --> Measure
+
